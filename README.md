@@ -1,6 +1,4 @@
 # Sensors-and-circuits
-IoT Based mini projects using ESP8266
-References:
-1. https://simple-circuit.com/esp8266-nodemcu-nokia-5110-lcd-dht11-sensor/
-2. https://lastminuteengineers.com/nokia-5110-lcd-arduino-tutorial/
+
+These are a few IoT Based mini projects (using ESP8266), created with the sole purpose of exploring the functionality of various sensors and to understand their interfacing with microcontrollers. 
 
