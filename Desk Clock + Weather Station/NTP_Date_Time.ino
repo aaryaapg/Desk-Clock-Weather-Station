@@ -7,8 +7,8 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_PCD8544.h>
 
-const char *ssid     = "Padhyegurjar";
-const char *password = "mncb8tbbt8";
+const char *ssid     = "***********";
+const char *password = "***********";
 
 Adafruit_PCD8544 display = Adafruit_PCD8544(D4, D3, D2, D1, D0); // Nokia 5110 LCD module connections (CLK, DIN, D/C, CS, RST)
 int DAY, MONTH, YEAR, SECONDS, HOURS ,MINUTES;
