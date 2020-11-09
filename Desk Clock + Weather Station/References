@@ -1,3 +1,9 @@
+#References
 https://simple-circuit.com/esp8266-nodemcu-nokia-5110-lcd-dht11-sensor/
 https://lastminuteengineers.com/nokia-5110-lcd-arduino-tutorial/
 https://www.hackster.io/hammadiqbal12/internet-clock-ntp-58ffd8 
+#Components used
+ESP8266
+DHT11
+FC 37
+NTP 
