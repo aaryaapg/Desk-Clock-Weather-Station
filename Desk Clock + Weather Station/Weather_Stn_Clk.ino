@@ -16,8 +16,8 @@
 Adafruit_PCD8544 display = Adafruit_PCD8544(D4, D3, D2, D1, D0); // Nokia 5110 LCD module connections (CLK, DIN, D/C, CS, RST)
 DHT dht = DHT(DHTPIN, DHTTYPE);   // DHT dht = DHT(DHTPIN,Sensor_type), "dht" is the name of the sensor (variable)
 
-const char *ssid     = "Padhyegurjar";
-const char *password = "mncb8tbbt8";
+const char *ssid     = "SSID";
+const char *password = "Password";
 int DAY, MONTH, YEAR, SECONDS, HOURS ,MINUTES, WEEKDAY;
 long int time_now; //Epoch Time
 WiFiUDP ntpUDP;
